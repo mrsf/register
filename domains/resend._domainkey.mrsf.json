@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "mrsf",
+        "email": "marcio.r.s.francisco@gmail.com"
+    },
+    "records": {
+        "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDTX8Cz1zuQVPPy36B5GO6SJXPrq8BgE/lsWjQ3yPYYT+xpj1yJ2RQujp9LhlwZdAW6w33K8LpjrTGVVk2iG385Oo0RMoqoQD1Dmqtt0pg3SBq0L5WKQxs5SEst26tZBRu61crDL5hKwM1XUVv2TQZtvPnkMa27RVXf65ipmxbghQIDAQAB"
+    },
+    "proxied": false
+}
